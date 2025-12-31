@@ -11,4 +11,4 @@ This repository contains beginner Python scripts for Security Operations Center 
 To become a SOC Analyst with Python automation skills.
 
 ## Author
-Gokah William
+William G.
