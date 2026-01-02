@@ -1,3 +1,5 @@
+
+
 # ------------------------------
 # Beginner Soc Practice o1
 #-------------------------------
@@ -12,7 +14,7 @@
 # Python output helps me visualize security data
 
 # Problem solved: 
-#  Displaying alerts and investigateion messages clearly
+#         Displaying alerts and investigateion messages clearly
 
 
 
@@ -39,13 +41,11 @@ print("Unauthorized access attempt detected")
 
 
 
-
-
-#outpt :
+# output :
 # Unauthorized access attempt detected 
 
 
-#SOC Use:
+# SOC Use:
 # .Display alerts 
 # .Show investigation 
 
